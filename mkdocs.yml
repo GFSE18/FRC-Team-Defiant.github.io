@@ -1,4 +1,20 @@
 site_name: FRC Team Defiant
+repo_url: https://github.com/FRC-Team-Defiant/frc-team-defiant.github.io
+repo_name: FRC Team Defiant
+edit_uri: tree/main/docs
+
+nav:
+  - Home: index.md
+  - Docs: 
+    - Vision:
+      - Overview: docs/vision/overview.md
+      - Software Installation: docs/vision/software-installation.md
+      - Basic Configuration: docs/vision/basic-configuration.md
+  - Seasons:
+    - Crescendo: seasons/crescendo.md
+    - Reefscape: seasons/reefscape.md
+
+
 theme:
   name: material
   features:
@@ -25,3 +41,12 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: frc-team-defiant/frc-team-defiant.github.io
+      branch: main
