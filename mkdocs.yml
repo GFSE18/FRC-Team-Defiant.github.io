@@ -19,6 +19,8 @@ nav:
 
 theme:
   name: material
+  favicon: img/icon.png
+  logo: img/icon.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky

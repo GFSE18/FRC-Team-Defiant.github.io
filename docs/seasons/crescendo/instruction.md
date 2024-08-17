@@ -25,3 +25,14 @@
 
 ## Robot Checklist
 
+### Before Stage
+- [ ] 润滑油？
+
+### Robot
+- [ ] Shooter Pitch
+
+### Driverstation
+
+- [ ] Connent to FMS?
+- [ ] Connect to Robot?
+- [ ] Connect to Orangepi?
