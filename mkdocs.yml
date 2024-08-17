@@ -11,7 +11,9 @@ nav:
       - Software Installation: docs/vision/software-installation.md
       - Basic Configuration: docs/vision/basic-configuration.md
   - Seasons:
-    - Crescendo: seasons/crescendo.md
+    - Crescendo:
+      - Overview: seasons/crescendo/overview.md
+      - Instruction: seasons/crescendo/instruction.md
     - Reefscape: seasons/reefscape.md
 
 
