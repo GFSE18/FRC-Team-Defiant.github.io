@@ -44,18 +44,32 @@
 
 ## Checklists
 
-### Pre-Match
+### 赛前准备
 
-- Minimum Battery Voltage: 12.7V
-- **CHANGE BATTERY AFTER EACH GAME**
+- 电池最低电压：12.7V
+- **每场比赛前都要换电池**
+- 换下的电池立刻充电/摆在充电器旁
+- 充好的电池区分存放
 
-Checklist for **BEFORE POWERING UP**
+**开电前**检查
 
-- Shooter Pitch: manually push shooter to lowest and highest possible pitch. Examine if there is visible dampening. Move to lowest possible pitch before powering up.
-- Climber Check:
-  - Thread condition for pulling up/down
-  - Tunnel movability
-- Wheel movability: check for flywheel, intake, and feeder.
+- 手动将主炮推拉至上下位置极限，过程中留意有无卡顿，最后将主炮手动放到最低位
+- **检查主炮飞轮、Feeder滚筒、Intake滚筒能否顺畅旋转**
+- Climber检查
+  - 拉线是否处于绳毂两壁之间
+  - 用（棘轮）扳手将线放出并收回，检查过程是否顺畅
+  - 检查完毕后将Climber**收回到最低位**
+- 紧固检查
+  - 主炮六根横梁中心M6螺丝
+  - 主炮横梁角件处螺丝
+  - 主炮仰角机械限位轴承组中心螺丝
+  - 穹甲上位铝管两端螺丝
+  - 主炮底座贯通轴两端螺丝
+  - 主炮飞轮、Feeder滚筒、Intake滚筒六角轴两端螺丝
+  - 各轴承限位M5*5螺丝
+  - 抽样检查底盘各处螺丝
+  - 如加装Climber，至少要有中心4颗贯通M4*85螺丝和两侧共4颗固定碳板螺丝
+
 
 Checklist for **AFTER POWERING UP**. Place robot on maintenance cart and facing pilot.
 
